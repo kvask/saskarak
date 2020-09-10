@@ -1,1 +1,2 @@
 # saskarak
+Weboldal a sáskarákról.
